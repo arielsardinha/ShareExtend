@@ -25,6 +25,7 @@ android {
     compileSdkVersion 29
 
     defaultConfig {
+        namespace 'com.zt.shareextend'
         minSdkVersion 19
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
